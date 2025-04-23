@@ -63,4 +63,4 @@ Setelah mengevaluasi kedua model menggunakan MSE, model yang memiliki nilai MSE 
 Hasil evaluasi ini memberikan gambaran tentang seberapa efektif model dalam memecahkan masalah yang diajukan, yakni memprediksi gaji yang sesuai dengan pengalaman kerja calon pekerja di perusahaan XYZ.
 
 
-![image](https://user-images.githubusercontent.com/72861300/190839123-c90fba7a-3cfe-4e62-984e-3a672ed1aef9.png)  
+![image]()  
